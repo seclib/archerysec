@@ -11,7 +11,7 @@ setup(
         'certifi==2017.11.5',
         'cffi==1.11.2',
         'chardet==3.0.4',
-        'cryptography==2.1.4',
+        'cryptography==3.2',
         'Django==1.11.8',
         'django-appconf==1.0.2',
         'django-cryptography==0.2',
