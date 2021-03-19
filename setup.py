@@ -17,7 +17,7 @@ setup(
         'django-cryptography==0.2',
         'django-fernet-fields==0.5',
         'django-stronghold==0.2.9',
-        'djangorestframework==3.7.3',
+        'djangorestframework==3.11.2',
         'enum34==1.1.6',
         'idna==2.6',
         'ipaddress==1.0.18',
