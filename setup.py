@@ -28,7 +28,7 @@ setup(
         'requests==2.18.4',
         'selenium==3.8.0',
         'six==1.11.0',
-        'urllib3==1.22',
+        'urllib3==1.26.5',
     ],
     url='https://github.com/anandtiwarics/archerysec/'
 )
