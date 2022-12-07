@@ -8,7 +8,7 @@ setup(
     description="Tool for managing and scanning vulnerability",
     install_requires=[
         'asn1crypto==0.23.0',
-        'certifi==2017.11.5',
+        'certifi==2022.12.7',
         'cffi==1.11.2',
         'chardet==3.0.4',
         'cryptography==2.1.4',
